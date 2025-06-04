@@ -1,4 +1,4 @@
-amircan quastions 
+American questions 
 1, df.dropna                                                ב
 2, df['city'].nunique                                       ג
 3, df['gender'].replace({'M':'Male','F':'Female'})          ב
@@ -7,6 +7,6 @@ amircan quastions
 6, df.drop_duplicates                                       ג
 7, df['price'].nlargest(3)                                  ד
 8, df['city'].value_counts                                  ב
-9, df['quantity]>100                                        ג
+9, df['quantity] > 100                                      ג
 10, df.groupby('category').mean                             א
 
